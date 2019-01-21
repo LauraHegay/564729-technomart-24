@@ -1,7 +1,7 @@
 # Личный проект «Техномарт»
 
 * Студент: [Лаура Хегай](https://up.htmlacademy.ru/htmlcss/24/user/564729).
-* Наставник: `Неизвестно`.
+* Наставник: [Александр Уразаев](https://htmlacademy.ru/profile/urazaev).
 
 ---
 
